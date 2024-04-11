@@ -1,4 +1,4 @@
-![image](https://github.com/Levetskyi/Poly-Lands/assets/153874337/a20f9688-02e4-4b3c-bb47-e64b34a41b0d)# Poly Lands (Preview)
+# Poly Lands (Preview)
 Welcome to Poly Lands, a captivating tower defense game where your strategic prowess will be put to the ultimate test! Defend your castle against relentless waves of enemies emerging from the depths of the cave. Are you ready to protect your realm and emerge victorious?
 
 ## Magic Kingdom
