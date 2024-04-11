@@ -1,4 +1,4 @@
-# Poly Lands (Preview)
+![image](https://github.com/Levetskyi/Poly-Lands/assets/153874337/a20f9688-02e4-4b3c-bb47-e64b34a41b0d)# Poly Lands (Preview)
 Welcome to Poly Lands, a captivating tower defense game where your strategic prowess will be put to the ultimate test! Defend your castle against relentless waves of enemies emerging from the depths of the cave. Are you ready to protect your realm and emerge victorious?
 
 ## Magic Kingdom
@@ -22,6 +22,33 @@ Welcome to Poly Lands, a captivating tower defense game where your strategic pro
 ![image](https://github.com/Levetskyi/TDD-Health-System/assets/153874337/174f471f-d646-4cf8-a7ec-dfe357562875)
 
 ![image](https://github.com/Levetskyi/TDD-Health-System/assets/153874337/4e6152ab-db09-4fbc-95f5-ed04797cbc03)
+
+### Turrets
+
+#### Canons
+![image](https://github.com/Levetskyi/TDD-Health-System/assets/153874337/503b90b8-dcbe-43e0-b46d-060be08b5529)
+
+#### Mortars
+
+![image](https://github.com/Levetskyi/TDD-Health-System/assets/153874337/b1db27a4-3102-4e46-a67f-3f618dfc141e)
+
+#### Rocket Launchers
+
+![image](https://github.com/Levetskyi/TDD-Health-System/assets/153874337/d4a11271-b820-4fb7-9d4f-059ef38824bc)
+
+#### Lasers
+
+![image](https://github.com/Levetskyi/TDD-Health-System/assets/153874337/343f5e12-3467-442e-81ff-e7e147c092c5)
+
+#### Teslas
+
+![image](https://github.com/Levetskyi/Poly-Lands/assets/153874337/2d53255b-f5fe-4151-8449-53f24c86d556)
+
+
+#### Flame Throwers
+
+![image](https://github.com/Levetskyi/Poly-Lands/assets/153874337/271ae0b2-f108-49cc-9a00-51b2b06e20c0)
+
 
 ## Features
 ### Tower Defence Mechanics
